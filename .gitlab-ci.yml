@@ -53,7 +53,6 @@ J04:
   stage: test
   script:
     - java $JAVAFX_OPTIONS -cp $CP org.junit.runner.JUnitCore comp1110.homework.J04.NameTest 
-    - java $JAVAFX_OPTIONS -cp $CP org.junit.runner.JUnitCore comp1110.homework.J04.RadixTest
     - java $JAVAFX_OPTIONS -cp $CP org.junit.runner.JUnitCore comp1110.homework.J04.ShoeSizeTest
     - java $JAVAFX_OPTIONS -cp $CP org.junit.runner.JUnitCore comp1110.homework.J04.ShiftCipherTest
   allow_failure: true

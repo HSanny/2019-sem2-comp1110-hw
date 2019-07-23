@@ -10,7 +10,6 @@
     </option>
     <patterns>
       <pattern testClass="comp1110.homework.J04.NameTest" />
-      <pattern testClass="comp1110.homework.J04.RadixTest" />
       <pattern testClass="comp1110.homework.J04.ShoeSizeTest" />
       <pattern testClass="comp1110.homework.J04.ShiftCipherTest" />
     </patterns>
