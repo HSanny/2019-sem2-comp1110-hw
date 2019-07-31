@@ -11,7 +11,6 @@
     </option>
     <patterns>
       <pattern testClass="comp1110.homework.J07.MenuTest" />
-      <pattern testClass="comp1110.homework.J07.BlocksTest" />
     </patterns>
     <method v="2">
       <option name="Make" enabled="true" />

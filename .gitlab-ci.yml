@@ -84,7 +84,6 @@ J07:
   stage: test
   script:
     - java $JAVAFX_OPTIONS -cp $CP org.junit.runner.JUnitCore comp1110.homework.J07.MenuTest 
-    - java $JAVAFX_OPTIONS -cp $CP org.junit.runner.JUnitCore comp1110.homework.J07.BlocksTest
   allow_failure: true
 
 J08:
